@@ -1,0 +1,20 @@
+Algoritmo	n	Resultado	Tempo (s)	Instruções	Iterações
+Recursivo	4	    3	        0	        26	        9
+Recursivo	8	    21	        0	        200	        67
+Recursivo	16	   987	     0.002023	    9578	   3193
+Recursivo	32	  2178309	 2.880568	 21147464	  7049155
+
+Algoritmo	n	Resultado	Tempo (s)	Instruções	Iterações
+Iterativo	4	     3	        0	         9	         4
+Memoizado	4	     3	        0	         20	         7
+Iterativo	8	     21	        0	         17	         8
+Memoizado	8	     21	        0	         44	         15
+Iterativo	16	    987	        0	         33	         16
+Memoizado	16	    987	        0	         92	         31
+Iterativo	32	  2178309	    0	         65	         32
+Memoizado	32	  2178309	    0	        188	         63
+Iterativo	128	  2.517e+26	    0	        257	         128
+Memoizado	128	  2.517e+26	    0	        764	         255
+Iterativo	1000  4.347e+208	0.001015	2001	     1000
+Memoizado	1000  4.347e+208	0.000984	5996	     1999
+Iterativo	10000 3.364e+2089	0.005527	20001	     10000
