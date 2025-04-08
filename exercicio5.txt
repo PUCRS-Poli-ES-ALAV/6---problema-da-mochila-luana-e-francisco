@@ -1,0 +1,13 @@
+Caso 1: Capacidade 165
+Capacidade: 165
+Pesos: [23, 31, 29, 44, 53, 38, 63, 85, 89, 82]
+Valores: [92, 57, 49, 68, 60, 43, 67, 84, 87, 72]
+[Bruta     ] -> Valor máximo: 309, Tempo: 0.001006s, Iterações: 565
+[Dinâmica  ] -> Valor máximo: 309, Tempo: 0.000000s, Iterações: 1650
+
+Caso 2: Capacidade 190
+Capacidade: 190
+Pesos: [56, 59, 80, 64, 75, 17]
+Valores: [50, 50, 64, 46, 50, 5]
+[Bruta     ] -> Valor máximo: 150, Tempo: 0.000000s, Iterações: 77
+[Dinâmica  ] -> Valor máximo: 150, Tempo: 0.000000s, Iterações: 1140
