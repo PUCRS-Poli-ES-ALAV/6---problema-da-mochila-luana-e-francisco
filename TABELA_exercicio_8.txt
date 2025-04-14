@@ -1,0 +1,13 @@
+1. Entradas: s1 = "Casablanca", s2 = "Portentoso"
+    ALGORTIMO memoization
+        distancia_edicao: iteracoes 297, distancia 10 e tempo 0.0 s
+
+    Algortimo distEdit matricial
+        distEdit: iteracoes 100, distancia 10 e tempo 0.0 s
+
+2. Entradas: s1 = "Maven, a Yiddish word...", s2 = "This post is not about deep learning..."
+    ALGORTIMO memoization
+        distancia_edicao: iteracoes 635140, distancia 557 e tempo 0.300398588180542 s
+
+    Algortimo distEdit matricial
+        distEdit: iteracoes 230720, distancia 557 e tempo 0.09958648681640625 s
